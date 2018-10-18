@@ -5,6 +5,7 @@
 
 void f1(char *a[]){
 	printf("%s\n",a[0]);
+	printf("please igonre");
 }
 
 void f2(int *a){
